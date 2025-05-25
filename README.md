@@ -1,7 +1,7 @@
 # Korean Skincare Webshop – SSR Prototype
 
-🔗 **Live demo:** [https://favorite-list-ssr.vercel.app](https://favorite-list-ssr.vercel.app)  
-📦 **Source code:** [https://github.com/MaiDaStudent/FavoriteList-ssr](https://github.com/MaiDaStudent/FavoriteList-ssr)
+🔗 **Live demo:** [https://webshop-ssr.vercel.app](https://webshop-ssr.vercel.app)  
+📦 **Source code:** [https://github.com/MaiDaStudent/webshop-ssr](https://github.com/MaiDaStudent/webshop-ssr)
 
 Denne prototype er en **Server-Side Rendered (SSR)** webshop bygget med **Next.js**. Formålet med projektet er at undersøge, hvordan SSR fungerer i praksis – særligt i sammenligning med Client-Side Rendering (CSR), som vises i det tilhørende CSR-projekt.
 
@@ -45,7 +45,7 @@ Bag kulissen henter Next.js produktdata og genererer HTML på serveren – alt s
 Clone projektet og installer afhængigheder:
 
 ```bash
-git clone https://github.com/MaiDaStudent/FavoriteList-ssr.git
-cd FavoriteList-ssr
+git clone https://github.com/MaiDaStudent/webshop-ssr.git
+cd webshop-ssr
 npm install
 npm run dev
